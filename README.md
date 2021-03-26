@@ -36,6 +36,10 @@ In order for pyglet to work with ipython on Mac, version 1.2.4 or newer is neede
 6. Voronoi Tessellation: A Voronoi tessellation is a partition of space into regions induced by points, so that each region (called a Voronoi cell) consists of all points closer to a specific point than to any others. The analysis of Voronoi tessellation is used in numerous fields including ecology, hydrology, epidemiology, mining and mobility studies. Voronoi cell fill, shading and colors can be configured. In a Voronoi tessellation, each pair of data points is separated by a (perpendicular) line such that it is equally distant from both the data points. As a result, the closer the data points, the smaller the cells.
 7. Delaunay triangulation: A Delaunay triangulation is yet another convenient method for generating triangle meshes from a set of points. In geoplotlib the delaunay method can be used for this purpose. The edge color can be configured to a fixed value, or to encode the length of the edges.
 
+Analysis on my [Medium]!
+
+[Medium]:https://sheetalkalburgi.medium.com/
+
 ## Advanced features: 
 Additionally, there are more advanced features available in geoplotlib such as:
 - Animation with time stamp: animation feature work ONLY on time stamp data.\
